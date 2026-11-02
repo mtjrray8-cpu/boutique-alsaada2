@@ -1,1 +1,0 @@
-<footer class="footer"><strong><?=e(setting('store_name',$config['site_name']))?></strong><p>تجربة تسوق سهلة وآمنة مع الحفاظ على الخصوصية.</p><small>© <?=date('Y')?> جميع الحقوق محفوظة</small></footer></body></html>
