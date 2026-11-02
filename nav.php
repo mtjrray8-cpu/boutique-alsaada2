@@ -1,0 +1,1 @@
+<div class="admin-nav"><a href="index.php">الرئيسية</a><a href="products.php">المنتجات</a><a href="orders.php">الطلبات</a><a href="settings.php">إعدادات المتجر</a><a href="logout.php">تسجيل الخروج</a></div>
